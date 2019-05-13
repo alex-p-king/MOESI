@@ -115,11 +115,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Cache.cpp" />
     <ClCompile Include="Executive.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Processor.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Cache.h" />
     <ClInclude Include="Executive.h" />
     <ClInclude Include="Processor.h" />
   </ItemGroup>
